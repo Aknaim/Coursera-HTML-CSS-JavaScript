@@ -1,0 +1,46 @@
+h3 {
+	text-align: center;
+}
+
+.container-fluid {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.navbar-toggle.collapsed.visible-xs {
+	margin-top: 25px;
+	margin-bottom: 0px;
+}
+
+.navbar-brand {
+	text-align: right;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+#nav-list {
+	text-align: center;
+	background-color: lightgrey;
+}
+
+.divider {
+	border: solid 1px grey;
+}
+
+.menu-body {
+	background-color: lightgrey;
+}
+
+/*@media (max-width: 767px) {
+	.menu-body {
+		margin: 0px 50px 0px 50px;
+	}
+}*/
+
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+	
+}
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+	
+}
